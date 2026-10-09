@@ -6,4 +6,4 @@
 
 | Drama | Eps | Tropes | |
 |---|---:|---|---|
-| **[Zombie Stege Rebirth Countdown](https://dramabee.app/drama/zombie-stege-rebirth-countdown)** | 60 | [Rebirth Revenge](../tropes/rebirth-revenge.md), [Cheating Husband](../tropes/cheating-husband.md), [Toxic In-Laws](../tropes/toxic-in-laws.md) | [▶ Watch](https://dramabee.app/drama/zombie-stege-rebirth-countdown) |
+| **[Zombie Stege Rebirth Countdown](https://dramabee.app/drama/zombie-stege-rebirth-countdown)** | 60 | [Rebirth Revenge](../tropes/rebirth-revenge.md), [Cheating Husband](../tropes/cheating-husband.md), [Toxic In-Laws](../tropes/toxic-in-laws.md) | [▶&nbsp;Watch](https://dramabee.app/drama/zombie-stege-rebirth-countdown) |

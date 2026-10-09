@@ -6,7 +6,7 @@
 
 | Drama | Eps | Tropes | |
 |---|---:|---|---|
-| **[Vampire Castle: The Blood Maid Is the True Boss](https://dramabee.app/drama/vampire-castle-the-blood-maid-is-the-true-boss)** | 30 | [Rebirth Revenge](../tropes/rebirth-revenge.md) | [▶ Watch](https://dramabee.app/drama/vampire-castle-the-blood-maid-is-the-true-boss) |
-| **[Vampire Wife, Hunter Husband](https://dramabee.app/drama/vampire-wife-hunter-husband)** | 29 | [Enemies To Lovers](../tropes/enemies-to-lovers.md), [Hidden Power Awakening](../tropes/hidden-power-awakening.md) | [▶ Watch](https://dramabee.app/drama/vampire-wife-hunter-husband) |
-| **[Vengeance For My Bestie](https://dramabee.app/drama/vengeance-for-my-bestie)** | 60 | [Betrayed By Best Friend](../tropes/betrayed-by-best-friend.md) | [▶ Watch](https://dramabee.app/drama/vengeance-for-my-bestie) |
-| **[Viking: Rise of the Frigid Winter](https://dramabee.app/drama/viking-rise-of-the-frigid-winter)** | 60 | [Transmigration](../tropes/transmigration.md), [Hidden Power Awakening](../tropes/hidden-power-awakening.md), [Hidden Mastermind](../tropes/hidden-mastermind.md) | [▶ Watch](https://dramabee.app/drama/viking-rise-of-the-frigid-winter) |
+| **[Vampire Castle: The Blood Maid Is the True Boss](https://dramabee.app/drama/vampire-castle-the-blood-maid-is-the-true-boss)** | 30 | [Rebirth Revenge](../tropes/rebirth-revenge.md) | [▶&nbsp;Watch](https://dramabee.app/drama/vampire-castle-the-blood-maid-is-the-true-boss) |
+| **[Vampire Wife, Hunter Husband](https://dramabee.app/drama/vampire-wife-hunter-husband)** | 29 | [Enemies To Lovers](../tropes/enemies-to-lovers.md), [Hidden Power Awakening](../tropes/hidden-power-awakening.md) | [▶&nbsp;Watch](https://dramabee.app/drama/vampire-wife-hunter-husband) |
+| **[Vengeance For My Bestie](https://dramabee.app/drama/vengeance-for-my-bestie)** | 60 | [Betrayed By Best Friend](../tropes/betrayed-by-best-friend.md) | [▶&nbsp;Watch](https://dramabee.app/drama/vengeance-for-my-bestie) |
+| **[Viking: Rise of the Frigid Winter](https://dramabee.app/drama/viking-rise-of-the-frigid-winter)** | 60 | [Transmigration](../tropes/transmigration.md), [Hidden Power Awakening](../tropes/hidden-power-awakening.md), [Hidden Mastermind](../tropes/hidden-mastermind.md) | [▶&nbsp;Watch](https://dramabee.app/drama/viking-rise-of-the-frigid-winter) |

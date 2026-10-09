@@ -65,4 +65,4 @@
 
 ---
 
-<sub>Updated 2026-10-09 · Missing a drama? [Search DramaBee](https://dramabee.app/search)</sub>
+<sub>Missing a drama? [Search DramaBee](https://dramabee.app/search)</sub>
